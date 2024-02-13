@@ -1,5 +1,6 @@
-# Demo
-Working of the project is shown in video below:
+# How to run on a device
 
-https://github.com/its-kks/online-shop-assignment/assets/99683544/cc94ea70-1ac8-4402-8d59-b15b825b4133
-
+1. Download the GithubCode Zip File and expand it.
+2. Open in VS Code and in the terminal type "npm install" which will install the node_modules folder.
+3. type "npm run dev" in the terminal to spin up the vite application in the local host.
+4. Enter the mentioned username and password and Login.
